@@ -103,7 +103,7 @@
 ## ساختار مخزن پروژه
 
 ```text
-music-genre-classification/
+ai-lab-g3-step1-veiseh
 │
 ├── README.md
 │   └── معرفی پروژه، تعریف مسئله، PEAS و ویژگی‌های محیط
